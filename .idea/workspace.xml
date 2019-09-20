@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1ef0f65-44c7-4ded-9dab-cb75f7ef7dc3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/video_poker$video_poker.coverage" NAME="video_poker Coverage Results" MODIFIED="1543905686346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="localhost" id="e3a7f572-9d79-4a14-86e5-81e229c3cc3d" name="localhost" />
+      <server host="PhpStorm 2017.3.6" id="9312a380-1a16-4c47-b9fa-79e72261241c" name="PhpStorm 2017.3.6" port="63342" />
+      <server host="10.0.0.80" id="a9931cba-8e87-47df-903c-1096af09223b" name="10.0.0.80" port="443" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/xampp/htdocs" />
+        </path_mappings>
+      </server>
+      <server host="10.0.0.80" id="2633250c-06d2-4017-b493-0204f6af2eb8" name="10.0.0.80 (1)" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/xampp/htdocs" />
+        </path_mappings>
+      </server>
+      <server host="localhost" id="22c48ca7-05fd-45c2-a16e-cbc4f8455a8a" name="localhost (1)" port="443">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="C:/xampp/htdocs" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1QvuDN3nTRm2b8DFRr3CdWctATW" />
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../video_poker2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CIS195P\week5\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CIS195P\week5\includes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.login.php">
+    <configuration name="poker_constants.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/week5/includes/poker_constants.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="poker.css.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/week5/includes/poker.css.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="video_poker" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/login.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="poker_code.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/includes/poker_code.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.poker.css.php" />
+      <item itemvalue="JavaScript Debug.poker_constants.php" />
+      <item itemvalue="PHP Script.poker_code.php" />
+      <item itemvalue="PHP Script.login.php" />
+      <item itemvalue="PHPUnit.video_poker" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.login.php" />
+        <item itemvalue="JavaScript Debug.poker_constants.php" />
+        <item itemvalue="PHP Script.poker_code.php" />
+        <item itemvalue="JavaScript Debug.poker.css.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1ef0f65-44c7-4ded-9dab-cb75f7ef7dc3" name="Default" comment="" />
+      <created>1541708214499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541708214499</updated>
+      <workItem from="1541708215687" duration="6020000" />
+      <workItem from="1541715396770" duration="22000" />
+      <workItem from="1541715549555" duration="16389000" />
+      <workItem from="1541787980564" duration="8941000" />
+      <workItem from="1541970181755" duration="904000" />
+      <workItem from="1541974222626" duration="4641000" />
+      <workItem from="1542041919856" duration="13744000" />
+      <workItem from="1542079559772" duration="691000" />
+      <workItem from="1542134560931" duration="5706000" />
+      <workItem from="1542220858572" duration="7872000" />
+      <workItem from="1542312306932" duration="4658000" />
+      <workItem from="1542666382100" duration="208000" />
+      <workItem from="1542666603337" duration="8000" />
+      <workItem from="1542666750575" duration="2444000" />
+      <workItem from="1542795260037" duration="5000" />
+      <workItem from="1543191970000" duration="5000" />
+      <workItem from="1543778237254" duration="1282000" />
+      <workItem from="1543868177227" duration="5535000" />
+      <workItem from="1543873737181" duration="398000" />
+      <workItem from="1543874282879" duration="4001000" />
+      <workItem from="1543904876601" duration="1155000" />
+      <workItem from="1543906213748" duration="3207000" />
+      <workItem from="1543955653309" duration="7526000" />
+      <workItem from="1543966564543" duration="246000" />
+      <workItem from="1543966981084" duration="10729000" />
+      <workItem from="1543989629757" duration="1702000" />
+      <workItem from="1544038460904" duration="11010000" />
+      <workItem from="1544558796565" duration="1219000" />
+      <workItem from="1546728675809" duration="738000" />
+      <workItem from="1547003748151" duration="9000" />
+      <workItem from="1554246074737" duration="670000" />
+      <workItem from="1554314540456" duration="1617000" />
+      <workItem from="1554318328853" duration="876000" />
+      <workItem from="1568663271573" duration="2354000" />
+      <workItem from="1568670535725" duration="599000" />
+      <workItem from="1568744295626" duration="599000" />
+      <workItem from="1568905100903" duration="17967000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="video_poker - 2018.12.03 at 14h 33m 10s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.03 at 14h 36m 29s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.03 at 22h 40m 21s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.03 at 22h 41m 18s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.03 at 22h 41m 31s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.03 at 23h 36m 05s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.03 at 23h 36m 07s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.04 at 13h 45m 36s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.04 at 14h 02m 53s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="video_poker - 2018.12.04 at 15h 25m 11s.xml">
+      <configuration name="video_poker" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
